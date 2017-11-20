@@ -5,20 +5,7 @@
   ],
   "description": "slick grid wrapper for remote data source with web component compatibility",
   "main": [
-  "slick-grid-wrapper.html",
-  "js/jquery-custom.js",
-  "js/jquery-ui-custom.js",
-  "js/jquery.event.drag-custom.js",
-  "js/sortable/Sortable.min.js",
-  "js/slick.core.js",
-  "js/slick.grid.polymer.js",
-  "js/slick.formatters.js",
-  "js/customremotemodel.js",
-  "js/grid-component.js",
-  "js/plugins/slick.cellrangeselector.js",
-  "js/plugins/slick.cellselectionmodel.js",
-  "js/plugins/slick.rowselectionmodel.js",
-  "js/plugins/slick.rowmovemanager.js"  
+  "slick-grid-wrapper.html"
   ],
   "keywords": [
     "slick-grid-wrapper",
